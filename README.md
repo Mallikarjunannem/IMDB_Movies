@@ -1,4 +1,5 @@
 Supply Chain Analysis:
+
 📌 Project Overview
 
 This project delivers a diagnostic analysis of the supply chain covering product demand, inventory, supplier performance, logistics efficiency, and geographic sales contribution. A Power BI dashboard was built to provide actionable insights for improving operational efficiency.
