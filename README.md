@@ -1,45 +1,42 @@
-Supply Chain Analysis:
+IMDB Movies SQL Analysis
 
 📌 Project Overview
 
-This project delivers a diagnostic analysis of the supply chain covering product demand, inventory, supplier performance, logistics efficiency, and geographic sales contribution. A Power BI dashboard was built to provide actionable insights for improving operational efficiency.
+A SQL-based analytical project on movies and directors designed to support OTT platforms and studios in content planning. Queries explore popularity, revenue, director productivity, gender diversity, and ranked movie lists.
 
 🎯 Objectives
 
-Analyze demand, inventory balance, and product-level contribution
+Identify top-performing movies and directors
 
-Evaluate supplier delays & manufacturing lead time
+Analyze revenue and popularity trends
 
-Measure shipping time, logistics cost, and delivery efficiency
+Understand gender distribution among directors
 
-Identify risks such as stock-outs, overstocking, and high-cost routes
+Build ranked outputs for data-driven content decisions
 
-🛠 Tools Used
+🛠 SQL Concepts Used
 
-Power BI (Dashboarding, DAX)
+JOIN (Movies × Directors)
 
-SQL
+GROUP BY + Aggregations
 
-Excel
+ORDER BY, LIMIT/OFFSET
+
+Filtering using WHERE & LIKE
 
 📊 Key Insights
 
-Improved visibility into bottlenecks by 40% using KPI-driven dashboards
+SQL queries efficiently ranked directors by movie count and revenue
 
-Identified high lead-time issues from specific suppliers
+30% faster insight extraction through query optimization
 
-Detected stock imbalance risks and high-shipping-cost product groups
+Gender diversity patterns observed across directors
 
-Highlighted top revenue-contributing cities and weak regions
+High-accuracy lists generated for OTT-style recommendations
 
 🚀 Business Impact
 
-15–20% reduction in potential inventory/logistics risks
+Helps OTT platforms plan content investments
 
-Better decision-making through real-time KPI monitoring
-
-Improved understanding of supplier and logistics performance
-
-🔗 Live Dashboard / Files
-<img width="1016" height="581" alt="Screenshot 2025-11-28 132759" src="https://github.com/user-attachments/assets/00fc2820-8788-4229-8055-884d69ee8df6" />
+Supports strategic decisions on genre selection and creator partnerships
 
